@@ -2,6 +2,7 @@
 - [Docker command](https://github.com/lqshow/notes/issues/6) 
 - [Docker 问题整理](https://github.com/lqshow/notes/issues/31)
 - [Dockerfile 整理](https://github.com/lqshow/notes/issues/32)
+- [Best practices for writing Dockerfiles for Node.js](https://github.com/lqshow/notes/issues/48)
 
 ## Kubernetes
 - [k8s 基础概念](https://github.com/lqshow/notes/issues/37)
@@ -13,6 +14,8 @@
 - [k8s Service Account](https://github.com/lqshow/notes/issues/44)
 - [k8s 认证鉴权](https://github.com/lqshow/notes/issues/43)
 - [k8s 利用 Service Account + RBAC 访问资源](https://github.com/lqshow/notes/issues/45)
+- [k8s 使用 Sidecar 容器设计模式来部署前端应用](https://github.com/lqshow/notes/issues/47)
+- [迁移传统应用到 Kubernetes](https://github.com/lqshow/notes/issues/50)
 
 
 ## CI/CD
